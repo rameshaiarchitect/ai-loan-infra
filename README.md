@@ -1,2 +1,9 @@
-# ai-loan-infra
-ai-loan-infra
+# Infra
+
+Local infrastructure setup using Docker.
+
+## Includes
+
+* Kafka
+* Postgres
+* Redis
